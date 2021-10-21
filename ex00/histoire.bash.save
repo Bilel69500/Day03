@@ -1,0 +1,11 @@
+$ cat histoire.txt 
+the day
+is suny
+the
+the sunny
+is green
+and
+the sky
+green
+$ grep -o mange | wc -l
+8

@@ -1,0 +1,5 @@
+Pour le pc1 : nc -l -p 12345 on utilise le port 12345 
+
+pour le pc2 : nc 192.168.1.218 12345
+
+on se connecte à l'adresse ip local du pc1 avec le port 12345 

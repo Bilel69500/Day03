@@ -1,0 +1,1 @@
+grep -iEo "(the|day|is|suny|the|the|sunny|is|green|and|the|sky|green)" histoire.txt | sort | uniq -c
